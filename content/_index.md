@@ -23,4 +23,5 @@ She lives in a tiny French village with her husband and daughter.
 
 **Twitter:** [@mzaraska](https://twitter.com/mzaraska)
 
-**Agent:** Martha Magor Webb | [The McDermid Agency Inc.](mailto:info@mcdermidagency.com)
+**Agent:** Christopher Rogers, Dunow, Carlson & Lerner Literary Agency, Inc. | [chris@dclagency.com](mailto:chris@dclagency.com)
+
