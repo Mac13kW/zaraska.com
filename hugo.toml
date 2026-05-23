@@ -15,13 +15,14 @@ title = "Marta Zaraska, science journalist & ghostwriter"
     url = "/books/"
     weight = 2
   [[menu.main]]
-    name = "Interviews"
-    url = "/interviews/"
-    weight = 3
-  [[menu.main]]
     name = "Articles"
     url = "/articles/"
+    weight = 3
+  [[menu.main]]
+    name = "Interviews"
+    url = "/interviews/"
     weight = 4
+
 
 [markup.goldmark.renderer]
   unsafe = true
