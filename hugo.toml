@@ -1,0 +1,27 @@
+baseURL = "https://zaraska.com"
+languageCode = "en-us"
+title = "Marta Zaraska, science journalist & ghostwriter"
+
+[params]
+  description = "Science & travel writer and ghostwriter specializing in nutrition, health, environment and social issues."
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Books"
+    url = "/books/"
+    weight = 2
+  [[menu.main]]
+    name = "Interviews"
+    url = "/interviews/"
+    weight = 3
+  [[menu.main]]
+    name = "Articles"
+    url = "/articles/"
+    weight = 4
+
+[markup.goldmark.renderer]
+  unsafe = true

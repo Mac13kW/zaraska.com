@@ -1,0 +1,142 @@
+---
+title: "Interviews"
+description: "Interviews with Marta Zaraska on podcasts, radio, TV and in print."
+---
+
+
+<div class="interview-grid">
+
+<div class="interview-item">
+<a href="https://t.co/VbOvkfYelw?amp=1">
+<img src="/img/npr-here&now.avif" alt="NPR Here&Now">
+<span>Listen...</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.youtube.com/watch?v=yNXGMuaYL6A">
+<img src="/img/pns.avif" alt="Pytanie na Śniadanie">
+<span>watch (Polish)</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://podcast.mindvalley.com/the-surprising-way-to-stay-young-at-work-marta-zaraska/">
+<img src="/img/superhumans.avif" alt="Mindvalley Podcast">
+<span>listen</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://t.co/ufzOmK5hcO?amp=1">
+<img src="/img/wp.avif" alt="The Washington Post">
+<span>read</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.wsj.com/articles/the-best-books-about-aging-and-retirement-of-2020-11605312522">
+<img src="/img/wsj.avif" alt="Wall Street Journal">
+<span>read</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.bluezones.com/2020/10/this-may-be-the-untold-secret-to-longevity-hint-its-not-only-what-you-eat/">
+<img src="/img/bluezones.avif" alt="Blue Zones">
+<span>read</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.theguardian.com/lifeandstyle/2020/jun/21/optimism-friendship-and-tidy-socks-the-secret-to-living-to-100">
+<img src="/img/guardian.avif" alt="The Guardian">
+<span>read</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://play.podtrac.com/npr-510338/edge1.pod.npr.org/anon.npr-mp3/npr/lifekit/2021/12/20211202_lifekit_life_kit_-_kind_neighbor_-_final.mp3?d=1252&size=20043695&e=1060464791&t=podcast&p=510338&awEpisodeId=1060464791&awCollectionId=510338&sc=siteplayer&aw_0_1st.playerid=siteplayer">
+<img src="/img/npr-lifekit.avif" alt="NPR Life Kit">
+<span>listen</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.thelisttv.com/the-list/3-lifestyle-factors-that-could-help-you-grow-young-10-13-21/">
+<img src="/img/thelist.avif" alt="The List TV">
+<span>watch</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.youtube.com/watch?v=qVRZG7IUCjo">
+<img src="/img/thesocial.avif" alt="Talk">
+<span>watch</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.youtube.com/watch?v=C6NeTWd9Xm0">
+<img src="/img/the-agenda.avif" alt="The Agenda">
+<span>watch</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.bbc.com/future/article/20201215-why-being-kind-to-others-is-good-for-your-health">
+<img src="/img/bbc.avif" alt="BBC">
+<span>read</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://darinolien.com/58-marta-zaraska-on-how-kindness-and-connection-keeps-you-young/">
+<img src="/img/olien.avif" alt="Darin Olien Podcast">
+<span>listen</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://dziendobry.tvn.pl/zdrowie/tajemnica-dlugowiecznosci-jak-dozyc-100-lat-5634949">
+<img src="/img/tvn.avif" alt="TVN Dzień Dobry">
+<span>watch (Polish)</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.youtube.com/watch?v=c07DHTnaTZ4&t=224s">
+<img src="/img/kwikbrain.avif" alt="Jim Kwik">
+<span>watch</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.skeptic.com/michael-shermer-show/marta-zaraska-growing-young-how-friendship-optimism-kindness-can-help-you-live-to-100/">
+<img src="/img/shermer.avif" alt="Michael Shermer Show">
+<span>listen</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.cbc.ca/news/canada/toronto/pandemic-park-workout-seniors-1.5858954">
+<img src="/img/cbc-radio.avif" alt="CBC">
+<span>listen</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.mindbodygreen.com/articles/how-social-interactions-can-impact-your-longevity">
+<img src="/img/mindbodygreen.avif" alt="mindbodygreen">
+<span>listen</span>
+</a>
+</div>
+
+<div class="interview-item">
+<a href="https://www.rnz.co.nz/national/programmes/afternoons/audio/2018780372/how-kindness-can-make-you-live-longer">
+<img src="/img/tim-hero-radionz.avif" alt="Radio New Zealand">
+<span>listen</span>
+</a>
+</div>
+
+</div>
