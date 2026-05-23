@@ -13,6 +13,7 @@ description: "Non-fiction books by Marta Zaraska: Growing Young and Meathooked"
 June 2020, Penguin Random House/Little, Brown
 
 A Globe and Mail bestseller
+
 Bestseller, South Korea
 
 "If you care about the length and quality of your life but can't stomach yet another diet or workout routine, this book is for you."
@@ -27,7 +28,7 @@ Bestseller, South Korea
 
 —Shawn Achor, author of "The Happiness Advantage"
 
-Translations: Polish, German, Korean, Thai
+**Translations: Polish, German, Korean, Thai**
 
 </div>
 </div>
@@ -45,6 +46,8 @@ Translations: Polish, German, Korean, Thai
 Basic Books, February 2016
 
 "MEATHOOKED" is an investigation set to answer a question that has stayed unanswered far too long, while we kept arguing health and ethical aspects of meat consumption: Why do we eat meat at all? What's so special about meat that it keeps us hooked? From the perspective of evolution, culture, taste, marketing, biochemistry and anthropology, Marta Zaraska sets out to identify all the hooks that make meat a food that humans don't want to easily give up.
+
+**Translations: Korean, Chinese, Polish, Spanish, Japanese**
 
 </div>
 </div>
