@@ -1,5 +1,5 @@
 ---
-title: "Articles"
+title: "Selected Articles"
 description: "Articles about nutrition, health, food, vegetarian and meat diets, sociology and history of meat-eating, travel."
 ---
 
