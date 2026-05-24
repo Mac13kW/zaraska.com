@@ -3,12 +3,6 @@ title: "Selected Articles"
 description: "Articles about nutrition, health, food, vegetarian and meat diets, sociology and history of meat-eating, travel."
 ---
 
-#### THE NEW REPUBLIC (long form features)
-
-1. [When is it right to kill a wolf?](https://newrepublic.com/article/201121/france-royal-wolf-catchers-kill)
-2. [The Polish-Ukrainian Honeymoon Is Over](https://newrepublic.com/article/208944/polish-ukrainian-honeymoon)
-
-
 #### SCIENTIFIC AMERICAN
 
 1. [You Can Literally Sniff Out Other People's Inner Feelings](https://www.scientificamerican.com/article/you-can-literally-sniff-out-other-peoples-inner-feelings/)
@@ -45,6 +39,22 @@ description: "Articles about nutrition, health, food, vegetarian and meat diets,
 8. [Vacations don't keep people satisfied for long once they return home](http://www.washingtonpost.com/national/health-science/too-much-happiness-can-make-you-unhappy-studies-show/2012/04/02/gIQACELLrS_story.html)
 9. and more...
 
+#### NEW SCIENTIST
+
+1. [Tomorrow's menu: Termites, grass and synthetic milk](https://www.newscientist.com/article/mg23331180-400-tomorrows-menu-termites-grass-and-synthetic-milk/)
+2. [Dirty talk: How pollution is snuffing out plants' scent messages](https://www.newscientist.com/article/mg23731650-200-dirty-talk-how-pollution-is-snuffing-out-plants-scent-messages/)
+3. [Bitter truth: How we're making fruit and veg less healthy](https://www.newscientist.com/article/mg22730322-100-bitter-truth-how-were-making-fruit-and-veg-less-healthy/)
+
+#### THE GUARDIAN LONG READS
+
+1. [Poison in the water: the town with the world's worst case of forever chemicals contamination](https://www.theguardian.com/environment/2025/jun/19/world-worst-case-of-pfas-forever-chemicals-contamination-kallinge)
+2. ['I couldn't breathe': the sinister spread of France's killer seaweed](https://www.theguardian.com/news/2026/may/12/i-couldnt-breathe-the-sinister-spread-of-frances-killer-seaweed)
+
+#### THE NEW REPUBLIC (long form features)
+
+1. [When is it right to kill a wolf?](https://newrepublic.com/article/201121/france-royal-wolf-catchers-kill)
+2. [The Polish-Ukrainian Honeymoon Is Over](https://newrepublic.com/article/208944/polish-ukrainian-honeymoon)
+
 #### BBC
 
 1. Why being kind to others is good for your health
@@ -75,17 +85,6 @@ description: "Articles about nutrition, health, food, vegetarian and meat diets,
 4. [Limiting Antibiotic Overprescription in Pandemics](https://www.medscape.com/viewarticle/981201?form=fpf)
 5. [Ancient Human Teeth Revise the History of Microbial Evolution](https://www.medscape.com/viewarticle/975668)
 6. and more...
-
-#### NEW SCIENTIST
-
-1. [Tomorrow's menu: Termites, grass and synthetic milk](https://www.newscientist.com/article/mg23331180-400-tomorrows-menu-termites-grass-and-synthetic-milk/)
-2. [Dirty talk: How pollution is snuffing out plants' scent messages](https://www.newscientist.com/article/mg23731650-200-dirty-talk-how-pollution-is-snuffing-out-plants-scent-messages/)
-3. [Bitter truth: How we're making fruit and veg less healthy](https://www.newscientist.com/article/mg22730322-100-bitter-truth-how-were-making-fruit-and-veg-less-healthy/)
-
-#### THE GUARDIAN LONG READS
-
-1. [Poison in the water: the town with the world's worst case of forever chemicals contamination](https://www.theguardian.com/environment/2025/jun/19/world-worst-case-of-pfas-forever-chemicals-contamination-kallinge)
-2. ['I couldn't breathe': the sinister spread of France's killer seaweed](https://www.theguardian.com/news/2026/may/12/i-couldnt-breathe-the-sinister-spread-of-frances-killer-seaweed)
 
 
 #### BREAKTHROUGH
